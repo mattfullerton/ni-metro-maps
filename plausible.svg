@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.95512776"
-     inkscape:cx="621.38284"
-     inkscape:cy="1874.6183"
+     inkscape:cx="261.2216"
+     inkscape:cy="325.0874"
      inkscape:window-width="1440"
      inkscape:window-height="847"
      inkscape:window-x="0"
@@ -286,7 +286,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ab8d3f;stroke-width:3.704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.704, 7.408;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#Arrow5-1-9);stop-color:#000000"
-       d="M 48.357126,44.142163 25.694597,21.214133"
+       d="M 48.357126,44.142163 31.788895,27.862458"
        id="path39409-9-8"
        sodipodi:nodetypes="cc" />
     <path
@@ -402,11 +402,6 @@
        style="display:inline;fill:none;stroke:#0000bb;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="M 49.064838,44.77317 66.013046,61.721374"
        id="path886-8"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;stroke:#0000bb;stroke-width:3.704;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 55.607349,36.763297 -3.191758,3.288936"
-       id="path13045-7-0-4-6-8"
        sodipodi:nodetypes="cc" />
   </g>
   <g
@@ -556,6 +551,18 @@
        id="path13912-5-25-9-1-3"
        cx="95.84494"
        cy="88.552292"
+       r="6.0854168" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.70417;stroke-dasharray:none;stroke-opacity:1"
+       id="path13912-5-25-9-1-3-0"
+       cx="70.08268"
+       cy="65.837181"
+       r="6.0854168" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.70417;stroke-dasharray:none;stroke-opacity:1"
+       id="path13912-5-25-9-1-3-0-0"
+       cx="48.198608"
+       cy="44.507137"
        r="6.0854168" />
     <circle
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.70417;stroke-dasharray:none;stroke-opacity:1"
@@ -881,14 +888,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="98.877174"
-       y="79.273781"
+       x="102.20134"
+       y="81.489891"
        id="text34553-3-478-0-1-6-7-8"><tspan
          sodipodi:role="line"
          id="tspan34551-2-1-1-4-8-5-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="98.877174"
-         y="79.273781">Bellarena</tspan></text>
+         x="102.20134"
+         y="81.489891">Bellarena</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
@@ -2130,54 +2137,39 @@
        cx="587.22656"
        cy="485.56702"
        r="6.0854168" />
-    <path
-       style="display:inline;fill:none;stroke:#ab8d3f;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 48.360842,44.067892 3.603444,-3.603444"
-       id="path13045-7-5-2-5-1-0-2-02-6-2"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;stroke:#0000bb;stroke-width:3.704;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 72.932598,55.120954 69.544963,58.50783"
-       id="path13045-7-0-4-6-8-4"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;stroke:#ab8d3f;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 66.094651,61.919051 3.603444,-3.603444"
-       id="path13045-7-5-2-5-1-0-2-02-6-2-0"
-       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
        x="79.54451"
-       y="52.965633"
+       y="67.370338"
        id="text34553-3-478-0-1-6-7-8-4"><tspan
          sodipodi:role="line"
          id="tspan34551-2-1-1-4-8-5-7-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
          x="79.54451"
-         y="52.965633">Magilligan Point</tspan></text>
+         y="67.370338">Magilligan Point</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="59.844501"
-       y="33.798008"
+       x="57.351379"
+       y="45.709591"
        id="text34553-3-478-0-1-6-7-8-4-5"><tspan
          sodipodi:role="line"
          id="tspan34551-2-1-1-4-8-5-7-3-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="59.844501"
-         y="33.798008">Greencastle (Donegal)</tspan></text>
+         x="57.351379"
+         y="45.709591">Greencastle (Donegal)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="31.547287"
-       y="15.79213"
+       x="9.9402294"
+       y="19.116293"
        id="text34553-3-478-0-1-6-7-8-4-5-1"><tspan
          sodipodi:role="line"
          id="tspan34551-2-1-1-4-8-5-7-3-5-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="31.547287"
-         y="15.79213">Donegal Northern Headlands</tspan></text>
+         x="9.9402294"
+         y="19.116293">Donegal Northern Headlands</tspan></text>
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ab8d3f;stroke-width:3.704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.704, 7.408;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#Arrow5-1-9-0);stop-color:#000000"
        d="m 274.67528,487.07702 0.49495,56.65198"
