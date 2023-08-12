@@ -3,7 +3,7 @@
 # NI Metro-style Maps
 Metro-style maps of public transport in Northern Ireland. There are three different versions, which I don't manage to keep in sync:
 
-- Plausible - what the network could look like if the solid (funded and unfunded) proposals are implemented
+- Plausible - what the network could look like if the solid (funded and unfunded) proposals are implemented. More information on this one below. This is the map used at http://www.sustainablemobility-ni.uk/.
 - Dream - what the network could look like if even more extensive railway reopenings took place
 - Current - how the network looks right now if you consider rail and coach services as mostly mutually exclusive (i.e. rail over bus) and ignore short missing links and include ferries (TODO...)
 
