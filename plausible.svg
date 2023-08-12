@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.95512776"
-     inkscape:cx="948.04071"
-     inkscape:cy="905.11451"
+     inkscape:cx="621.38284"
+     inkscape:cy="1874.6183"
      inkscape:window-width="1440"
      inkscape:window-height="847"
      inkscape:window-x="0"
@@ -294,6 +294,14 @@
        d="M 88.636676,84.400135 65.974147,61.472105"
        id="path39409-9-8-8"
        sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#e32017;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 294.46365,393.59912 v -5.09605"
+       id="path13045-7-5-2-2-7" />
+    <path
+       style="display:inline;fill:none;stroke:#e32017;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 275.62673,393.87613 v -5.09605"
+       id="path13045-7-5-2-2-7-8" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -629,14 +637,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="265.84991"
-       y="414.15576"
+       x="312.11118"
+       y="415.54083"
        id="text34553-8"><tspan
          sodipodi:role="line"
          id="tspan34551-23"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="265.84991"
-         y="414.15576">Dromore</tspan></text>
+         x="312.11118"
+         y="415.54083">Dromore</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
@@ -673,13 +681,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="193.35683"
-       y="447.43988"
+       x="185.04642"
+       y="446.33182"
        id="text34553-8-2-2-6"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="193.35683"
-         y="447.43988"
+         x="185.04642"
+         y="446.33182"
          id="tspan64131">Mullingar</tspan></text>
     <text
        xml:space="preserve"
@@ -1569,7 +1577,7 @@
          id="tspan34551-2-68-40-6-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
          x="717.71167"
-         y="-308.27521">Seaahill</tspan></text>
+         y="-308.27521">Seahill</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
@@ -1653,7 +1661,7 @@
        id="path13045-7-0-9-2-8-9" />
     <path
        style="display:inline;fill:none;stroke:#e32017;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 297.46657,412.48151 h 5.09604"
+       d="m 303.83788,413.31255 h 5.09604"
        id="path13045-2-6-1" />
     <path
        style="display:inline;fill:none;stroke:#e32017;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1663,6 +1671,21 @@
        style="display:inline;fill:none;stroke:#e32017;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 244.26714,438.35132 h 5.09604"
        id="path13045-2-6-1-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       x="205.54829"
+       y="461.19675"
+       id="text34553-8-2-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan34551-23-8-2-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="205.54829"
+         y="461.19675">Poyntzpass</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#e32017;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 244.28933,459.30103 h 5.09604"
+       id="path13045-2-6-1-0-4" />
     <path
        style="display:inline;fill:none;stroke:#e1d300;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 390.12221,380.24147 v -5.09604"
@@ -2088,19 +2111,19 @@
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;stroke:#e32017;stroke-width:3.70401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 313.6254,404.18975 h 5.09604"
+       d="m 314.22914,402.25066 h 5.09604"
        id="path13045-2-6-1-7-5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="322.7623"
-       y="406.55392"
+       x="323.34119"
+       y="404.61484"
        id="text34553-9"><tspan
          sodipodi:role="line"
          id="tspan34551-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="322.7623"
-         y="406.55392">Hillsborough</tspan></text>
+         x="323.34119"
+         y="404.61484">Hillsborough</tspan></text>
     <circle
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.70417;stroke-dasharray:none;stroke-opacity:1"
        id="path13912-1-2"
@@ -2230,5 +2253,29 @@
        cx="636.72083"
        cy="496.03925"
        r="6.0854168" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       x="-108.28189"
+       y="478.29553"
+       id="text34553-8-2-3-3-7-9"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan34551-23-8-21-4-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-108.28189"
+         y="478.29553">Lurgan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:#e32017;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       x="-89.903107"
+       y="491.2814"
+       id="text34553-8-2-3-3-7-9-8"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan34551-23-8-21-4-7-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-89.903107"
+         y="491.2814">Moira</tspan></text>
   </g>
 </svg>
